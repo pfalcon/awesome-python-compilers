@@ -23,6 +23,11 @@ Sites
 Projects
 ========
 
+* PyPy
+* Shedskin
+* Nuitka
+* Unladen Swallow
+  * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
 * https://github.com/darius/tailbiter
 
 SIGs
