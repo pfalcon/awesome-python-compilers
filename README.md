@@ -23,13 +23,46 @@ Sites
 Projects
 ========
 
-* PyPy
-* Shedskin
-* Nuitka
-* Unladen Swallow
+* 1997-1999 [Python2C](https://web.archive.org/web/20011025084441/http://www.mudlib.org/~rassilon/p2c/)
+* 1997-2000 PyFront (afterwards Basil)
+* 1998-11 7th International Python Conference
+  * From Jon Riehl's [notes](https://wildideas.org/basil/):
+  > Last year (IPC7,) I thought I was going to surprise the Python community
+  > by presenting a prototype Python to C translator. Little did I know,
+  > I was only one of three people who announced such a product.
+ * These apparently were:
+   * "Converting Python Virtual Machine Code to C", John Aycock
+   * "PyFront: Conversion of Python to C Extension Modules", Jon Riehl
+   * (3rd - ???)
+* 2000-01 8th International Python Conference
+  * From Jon Riehl's [notes](https://wildideas.org/basil/):
+  > This year (IPC8,) in the interest of keeping people up to date,
+  > there was a two hour session that hosted the developers of these
+  > prototypes. The only system left standing is now complete and under
+  > beta test. Bill Tutt and Greg Stein cowrote Python2C, which they
+  > have been continuing to work on at (http://www.mudlib.org/~rassilon/p2c/).
+  > The other player is John Aycock. John declared he would look into run time
+  > type instrumentation, which I think should end up forming some sort of a
+  > JIT for Python. He lives at: (http://gulf.uvic.ca/~aycock/) 
+* 2000 Basil
+  * https://sourceforge.net/projects/basil/ - No files, no VCS
+  * http://wiki.c2.com/?BasilProject
+  * http://wiki.c2.com/?BasilProjectLog
+* 2002-2011 [Psyco](http://psyco.sourceforge.net/), https://bitbucket.org/arigo/psyco
+  * Was actually used in production for many projects
+* 2002-2003 UCPy compiler + Mamba VM
+  * [UCPy: Reverse-Engineering Python](https://pages.cpsc.ucalgary.ca/~aycock/papers/ucpy.pdf)
+* 2003, active [PyPy](https://bitbucket.org/pypy/pypy)
+* 2004-2004 Starkiller
+  * [Faster than C: Static Type Inference with Starkiller](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.95.3786)
+* 2008, active [Shedskin](https://github.com/shedskin/shedskin)
+* 2009-2010 Unladen Swallow
   * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
-* https://github.com/darius/tailbiter
-* https://github.com/lukasmartinelli/py14 - Python to C++ 14 transpiler
+* 2011, active [Nuitka](https://github.com/Nuitka/Nuitka)
+* 2015-2015 https://github.com/lukasmartinelli/py14 - Python to C++ 14 transpiler
+* 2016-2017 https://github.com/darius/tailbiter - Simple teaching metacircular bytecode compiler
+  * [Originally](https://github.com/darius/500lines/tree/master/bytecode-compiler)
+    for book "500 Lines or Less" (didn't fit)
 
 SIGs
 ====
