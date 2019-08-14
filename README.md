@@ -27,6 +27,8 @@ Projects with code deliverables
 * 2015-2015 https://github.com/lukasmartinelli/py14 - Python to C++ 14 transpiler
 * 2015-2019 [numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code
   * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
+* 2015-2016 [FAT Python](https://faster-cpython.readthedocs.io/fat_python.html)
+  * https://github.com/vstinner/fatoptimizer
 
 Academic and theoretical research, and just no code available
 =============================================================
