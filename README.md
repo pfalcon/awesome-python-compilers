@@ -9,6 +9,12 @@ Projects with code deliverables
 * 2009-2010 Unladen Swallow
   * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
 * 2011, active [Nuitka](https://github.com/Nuitka/Nuitka)
+* 2010-2011 HotPy
+* 2012-2012 HotPy2
+  * https://sites.google.com/site/makingcpythonfast/
+  * https://sites.google.com/site/makingcpythonfast/
+  * https://code.google.com/archive/p/hotpy/
+  * https://bitbucket.org/markshannon/hotpy_2
 * 2012, active [Pythran](https://github.com/serge-sans-paille/pythran)
   * [docs](https://pythran.readthedocs.io)
   * 2019-01-24 [Pythran: Python at C++ speed !](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8)
@@ -74,14 +80,6 @@ PEPs
 * [PEP 510](https://www.python.org/dev/peps/pep-0510/), 2016-01, Py3.6: Specialize functions with guards
 * [PEP 511](https://www.python.org/dev/peps/pep-0511/), 2016-01, Py3.6: API for code transformers
 
-Sites
-=====
-
-* HotPy
-  * http://hotpy.blogspot.com/
-  * https://sites.google.com/site/makingcpythonfast/
-  * https://code.google.com/archive/p/hotpy/
-  * https://bitbucket.org/markshannon/hotpy_2
 
 Static Analysis
 ===============
