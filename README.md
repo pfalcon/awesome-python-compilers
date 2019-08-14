@@ -65,14 +65,14 @@ Python Conferences and SIGs
 
 PEPs
 ====
-* https://www.python.org/dev/peps/pep-0266/
-* https://www.python.org/dev/peps/pep-0267/
-* https://www.python.org/dev/peps/pep-0280/
-* https://www.python.org/dev/peps/pep-0329/
+* [PEP 267](https://www.python.org/dev/peps/pep-0267/), 2001-05, Py2.2: Optimized Access to Module Namespaces
+* [PEP 266](https://www.python.org/dev/peps/pep-0266/), 2001-08, Py2.3: Optimizing Global Variable/Attribute Access
+* [PEP 280](https://www.python.org/dev/peps/pep-0280/), 2002-02, Py2.3: Optimizing access to globals
 
-* https://www.python.org/dev/peps/pep-0510/
+* [PEP 329][https://www.python.org/dev/peps/pep-0329/], 2004-04, Py2.4: Treating Builtins as Constants in the Standard Library
 
-* https://www.python.org/dev/peps/pep-0511/
+* [PEP 510](https://www.python.org/dev/peps/pep-0510/), 2016-01, Py3.6: Specialize functions with guards
+* [PEP 511](https://www.python.org/dev/peps/pep-0511/), 2016-01, Py3.6: API for code transformers
 
 Sites
 =====
