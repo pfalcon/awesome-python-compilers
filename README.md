@@ -24,6 +24,9 @@ Projects with code deliverables
   * 2014-02-24 http://abecedarius.tumblr.com/post/77679122389/ouroborospy
   * 2014-03-17 http://abecedarius.tumblr.com/post/79850464139/tail-eaten-well-almost
   * 2017-02 [Dragon taming with Tailbiter, a bytecode compiler for Python](https://codewords.recurse.com/issues/seven/dragon-taming-with-tailbiter-a-bytecode-compiler) -
+* 2014-2017 [Pyston](https://github.com/dropbox/pyston)
+  * 2014-04-03 [Announcement](https://blogs.dropbox.com/tech/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/)
+  * 2017-01-31 [Postmortem](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
 * 2015-2015 https://github.com/lukasmartinelli/py14 - Python to C++ 14 transpiler
 * 2015-2019 [numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code
   * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
