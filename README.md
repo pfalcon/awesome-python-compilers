@@ -15,6 +15,9 @@ Projects with code deliverables
   * https://sites.google.com/site/makingcpythonfast/
   * https://code.google.com/archive/p/hotpy/
   * https://bitbucket.org/markshannon/hotpy_2
+* 2012-2012 [pymothoa](https://github.com/sklam/pymothoa)
+  * https://code.google.com/archive/p/pymothoa/
+  * https://www.phoronix.com/scan.php?page=news_item&px=MTEzMDQ
 * 2012, active [Pythran](https://github.com/serge-sans-paille/pythran)
   * [docs](https://pythran.readthedocs.io)
   * 2019-01-24 [Pythran: Python at C++ speed !](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8)
