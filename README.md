@@ -84,7 +84,7 @@ PEPs
 * [PEP 266](https://www.python.org/dev/peps/pep-0266/), 2001-08, Py2.3: Optimizing Global Variable/Attribute Access
 * [PEP 280](https://www.python.org/dev/peps/pep-0280/), 2002-02, Py2.3: Optimizing access to globals
 
-* [PEP 329][https://www.python.org/dev/peps/pep-0329/], 2004-04, Py2.4: Treating Builtins as Constants in the Standard Library
+* [PEP 329](https://www.python.org/dev/peps/pep-0329/), 2004-04, Py2.4: Treating Builtins as Constants in the Standard Library
 
 * [PEP 510](https://www.python.org/dev/peps/pep-0510/), 2016-01, Py3.6: Specialize functions with guards
 * [PEP 511](https://www.python.org/dev/peps/pep-0511/), 2016-01, Py3.6: API for code transformers
