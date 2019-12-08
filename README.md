@@ -5,6 +5,7 @@ Projects with code deliverables
 * 2002-2011 [Psyco](http://psyco.sourceforge.net/), https://bitbucket.org/arigo/psyco
   * Was actually used in production for many projects
 * 2003, active [PyPy](https://bitbucket.org/pypy/pypy)
+* 2006 Grant Olson's [Compyler](https://www.grant-olson.net/projects/misc.html)
 * 2008, active [Shedskin](https://github.com/shedskin/shedskin)
 * 2009-2010 Unladen Swallow
   * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
