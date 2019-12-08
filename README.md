@@ -21,6 +21,7 @@ Projects with code deliverables
 * 2012, active [Pythran](https://github.com/serge-sans-paille/pythran)
   * [docs](https://pythran.readthedocs.io)
   * 2019-01-24 [Pythran: Python at C++ speed !](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8)
+* 2012-2018 [reticulated](https://github.com/mvitousek/reticulated)
 * 2014-2017 https://github.com/darius/tailbiter - Simple teaching metacircular bytecode compiler
   * [Originally](https://github.com/darius/500lines/tree/master/bytecode-compiler)
     for book "500 Lines or Less" (didn't fit)
