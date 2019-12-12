@@ -19,6 +19,7 @@ Projects with code deliverables
 * 2012-2012 [pymothoa](https://github.com/sklam/pymothoa)
   * https://code.google.com/archive/p/pymothoa/
   * https://www.phoronix.com/scan.php?page=news_item&px=MTEzMDQ
+* 2012-2013 [Parakeet](https://github.com/iskandr/parakeet)
 * 2012, active [Pythran](https://github.com/serge-sans-paille/pythran)
   * [docs](https://pythran.readthedocs.io)
   * 2019-01-24 [Pythran: Python at C++ speed !](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8)
