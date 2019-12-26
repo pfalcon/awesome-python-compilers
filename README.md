@@ -4,6 +4,8 @@ Projects with code deliverables
 * 1997-1999 [Python2C](https://web.archive.org/web/20011025084441/http://www.mudlib.org/~rassilon/p2c/)
 * 2002-2011 [Psyco](http://psyco.sourceforge.net/), https://bitbucket.org/arigo/psyco
   * Was actually used in production for many projects
+* 2002-2010 [Pyrex](http://www.cosc.canterbury.ac.nz/greg.ewing/python/Pyrex/)
+  * Served as a base for Cython
 * 2003, active [PyPy](https://bitbucket.org/pypy/pypy)
 * 2006 Grant Olson's [Compyler](https://www.grant-olson.net/projects/misc.html)
 * 2008, active [Shedskin](https://github.com/shedskin/shedskin)
