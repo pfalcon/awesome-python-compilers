@@ -8,6 +8,8 @@ Projects with code deliverables
   * Served as a base for Cython
 * 2003, active [PyPy](https://bitbucket.org/pypy/pypy)
 * 2006 Grant Olson's [Compyler](https://www.grant-olson.net/projects/misc.html)
+* 2006, active [Cython](https://github.com/cython/cython)
+  * Originally based on Pyrex
 * 2008, active [Shedskin](https://github.com/shedskin/shedskin)
 * 2009-2010 Unladen Swallow
   * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
