@@ -14,6 +14,9 @@ Projects with code deliverables
 * 2009-2010 Unladen Swallow
   * [Postmortem](http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html)
 * 2011, active [Nuitka](https://github.com/Nuitka/Nuitka)
+* 2011-2013 [Copperhead]https://github.com/bryancatanzaro/copperhead) - "Data Parallel Python"
+  * https://devblogs.nvidia.com/copperhead-data-parallel-python/
+  * https://github.com/bryancatanzaro/copperhead/tree/master/samples
 * 2010-2011 HotPy
 * 2012-2012 HotPy2
   * https://sites.google.com/site/makingcpythonfast/
