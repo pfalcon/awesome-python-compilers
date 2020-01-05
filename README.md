@@ -42,6 +42,8 @@ Projects with code deliverables
 * 2014-2017 [Pyston](https://github.com/dropbox/pyston)
   * 2014-04-03 [Announcement](https://blogs.dropbox.com/tech/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/)
   * 2017-01-31 [Postmortem](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
+* 2014-2016 [HOPE](https://github.com/jakeret/hope) - "JIT compiler for astrophysical computations"
+  * [paper](https://arxiv.org/abs/1410.4345)
 * 2015-2015 https://github.com/lukasmartinelli/py14 - Python to C++ 14 transpiler
 * 2015-2019 [numpile](https://github.com/sdiehl/numpile) - A tiny 1000 line LLVM-based numeric specializer for scientific Python code
   * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
