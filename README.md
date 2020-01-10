@@ -62,6 +62,7 @@ Academic and theoretical research, and just no code available
   * [UCPy: Reverse-Engineering Python](https://pages.cpsc.ucalgary.ca/~aycock/papers/ucpy.pdf)
 * 2004-2004 Starkiller
   * [Faster than C: Static Type Inference with Starkiller](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.95.3786)
+  * [Master's Thesis](https://dspace.mit.edu/handle/1721.1/16688)
   * Shedskin seems to be based on similar ideas and provides concrete deliverables
 
 Python Conferences and SIGs
