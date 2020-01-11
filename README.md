@@ -49,6 +49,7 @@ Projects with code deliverables
   * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * 2015-2016 [FAT Python](https://faster-cpython.readthedocs.io/fat_python.html)
   * https://github.com/vstinner/fatoptimizer
+* 2016-2018 [Lichen](http://projects.boddie.org.uk/Lichen) - Explicitly a subset of Python with purposely differing semantics
 
 Academic and theoretical research, and just no code available
 =============================================================
