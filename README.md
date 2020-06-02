@@ -50,6 +50,9 @@ Projects with code deliverables
 * 2015-2016 [FAT Python](https://faster-cpython.readthedocs.io/fat_python.html)
   * https://github.com/vstinner/fatoptimizer
 * 2016-2018 [Lichen](http://projects.boddie.org.uk/Lichen) - Explicitly a subset of Python with purposely differing semantics
+* 2017, active [mypyc/mypy](https://github.com/mypyc/mypyc) - Python-to-C
+  compiler based on type annotations/inference by mypy type checker. (Later
+  mypyc is merged into mypy codebase).
 
 Academic and theoretical research, and just no code available
 =============================================================
