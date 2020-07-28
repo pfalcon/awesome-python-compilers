@@ -95,6 +95,8 @@ Python Conferences and SIGs
   * "This SIG grew out of a Developers' Day session at the 8th International Python
     Conference. Ka-Ping Yee took
     [notes on the session](ftp://ftp.ntua.gr/mirror/python/sigs/compiler-sig/dev-day-notes.txt)."
+* 2016-07-11 [Python Compilers Workshop](https://python-compilers-workshop.github.io/)
+  at SciPy 2016 conference.
 
 PEPs
 ====
