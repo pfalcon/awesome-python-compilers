@@ -33,6 +33,9 @@ Projects with code deliverables
   * [docs](https://pythran.readthedocs.io)
   * 2019-01-24 [Pythran: Python at C++ speed !](https://medium.com/@olivier.borderies/pythran-python-at-c-speed-518f26af60e8)
 * 2012-2018 [reticulated](https://github.com/mvitousek/reticulated)
+* 2013-2014 [flypy](https://github.com/flypy/flypy), [was once named "numba2"](https://github.com/flypy/flypy/commit/7d7075c81dd9a9a5e1fbd54678a68713f42c3e91) then apparently transforned into pykit
+  * Related: https://github.com/pykit, https://github.com/ContinuumIO/pykit, https://github.com/flypy/pykit
+  * Good pitch: https://pypi.org/project/pykit/
 * 2014-2017 https://github.com/darius/tailbiter - Simple teaching metacircular bytecode compiler
   * [Originally](https://github.com/darius/500lines/tree/master/bytecode-compiler)
     for book "500 Lines or Less" (didn't fit)
