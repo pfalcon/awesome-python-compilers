@@ -52,6 +52,7 @@ Projects with code deliverables
   * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * 2015-2016 [FAT Python](https://faster-cpython.readthedocs.io/fat_python.html)
   * https://github.com/vstinner/fatoptimizer
+* 2015, active [Pyjion](https://github.com/tonybaloney/Pyjion) (originally `microsoft/Pyjion`) - A JIT for Python based upon CoreCLR
 * 2016-2018 [Lichen](http://projects.boddie.org.uk/Lichen) - Explicitly a subset of Python with purposely differing semantics
 * 2017, active [mypyc/mypy](https://github.com/mypyc/mypyc) - Python-to-C
   compiler based on type annotations/inference by mypy type checker. (Later
