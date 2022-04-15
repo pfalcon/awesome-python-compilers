@@ -57,6 +57,8 @@ Projects with code deliverables
 * 2017, active [mypyc/mypy](https://github.com/mypyc/mypyc) - Python-to-C
   compiler based on type annotations/inference by mypy type checker. (Later
   mypyc is merged into mypy codebase).
+* 2021, [Skybison](https://github.com/tekknolagi/skybison) (originally `facebookexperimental/skybison`)
+* 2021, active [Cinder](https://github.com/facebookincubator/cinder/)
 
 Academic and theoretical research, and just no code available
 =============================================================
